@@ -1,5 +1,7 @@
-# Brayan Mejia Cuenca
+# Hi 👋, I'm Brayan Mejia Cuenca
 
-## Full-Stack Developer (Front-end)
+## About Me
 
-I'm a Frontend developer with an interest for crafting intuitive and dynamic web applications. Leveraging a creative background and a continuous learning ethos, I build modern digital solutions that empower and inspire.
+* 👨‍💻 I'm a Full-Stack Developer with a passion for design.
+* 💼 I share insights and updates about my projects on [LinkedIn](https://www.linkedin.com/in/brayan-mejia/).
+* 🌐 I’m a web enthusiast and craftsperson, always exploring new technologies and ideas.
